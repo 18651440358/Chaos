@@ -14,7 +14,5 @@ Our software will solve the cumbersome environment configuration and installatio
 No need to install additional VM virtualization, create and manage virtual images through interface. Has less memory and computing power requirements than VM virtual machines, lowering the threshold for using virtual machines.
 
 ## Version & compatibility
-Version 1.0 Alpha Support operating system
-- Windows
-- macOS
-- Linux
+Version 1.0 Alpha Support operating system: <img src="https://img.shields.io/badge/-%20windows-blue"> <img src="https://img.shields.io/badge/-%20macOS-ff69b4"> <img src="https://img.shields.io/badge/-Linux-8B37DA">
+
