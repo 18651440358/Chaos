@@ -14,4 +14,7 @@ No need to install additional VM virtualization, create and manage virtual image
 ## Version & compatibility
 Version 1.0 Alpha
 
-Support operating system: Windows、macOS、Linux
+Support operating system
+- Windows
+- macOS
+- Linux
