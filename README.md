@@ -1,4 +1,6 @@
-# Chaos
+<div align=center><img src="https://user-images.githubusercontent.com/44701892/141610989-d5d1e049-98f0-4e45-9fed-83f4f6208ea3.png" width="200" /></div>
+<br/><br/>
+
 Everything starts with chaos...
 
 This is an interface application that can quickly initialize various development environments for learning or development. This is my undergraduate graduation project. The design ideas for this project came from me and my mentor [Xu Yiqing](https://github.com/yiqingxu). 
