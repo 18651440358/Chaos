@@ -3,7 +3,7 @@
 
 Everything starts with chaos...
 
-This is an interface application that can quickly initialize various development environments for learning or development. This is my undergraduate graduation project. The design ideas for this project came from me and my mentor [Xu Yiqing](https://github.com/yiqingxu). 
+This is an interface application that can quickly initialize various development environments for learning or development. This is my undergraduate graduation project. The design ideas for this project came from me and my mentor [<img src="https://img.shields.io/badge/Niit-%20Xu%20Yiqing-brightgreen" />](https://github.com/yiqingxu). 
 
 ## Design ideas
 We found that there are many situations in daily class that need to configure the development environment. For example, for a Java Web project, we need to install JDK, Mysql, Tomcat, etc. in a Linux-based server instance. Most of the students will have problems during the installation, which will make it impossible to proceed.
