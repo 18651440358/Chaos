@@ -16,3 +16,7 @@ No need to install additional VM virtualization, create and manage virtual image
 ## Version & compatibility
 Version 1.0 Alpha Support operating system:&nbsp; <img src="https://img.shields.io/badge/-%20windows-blue"> &nbsp;<img src="https://img.shields.io/badge/-%20macOS-ff69b4">&nbsp; <img src="https://img.shields.io/badge/-Linux-8B37DA">&nbsp;. 
 
+## Conceptual view
+![IMG_1742](https://user-images.githubusercontent.com/44701892/142862407-8a978aee-64c4-48cf-a95d-4a341a9f9ef5.PNG)
+![IMG_1743](https://user-images.githubusercontent.com/44701892/142862415-ed5c8ec1-69c5-4f52-862d-7beb30083b41.PNG)
+
