@@ -19,4 +19,5 @@ Version 1.0 Alpha Support operating system:&nbsp; <img src="https://img.shields.
 ## Conceptual view
 ![IMG_1742](https://user-images.githubusercontent.com/44701892/142862407-8a978aee-64c4-48cf-a95d-4a341a9f9ef5.PNG)
 ![IMG_1743](https://user-images.githubusercontent.com/44701892/142862415-ed5c8ec1-69c5-4f52-862d-7beb30083b41.PNG)
+![4d285a5b4c31c89f89020dcdca8b753e](https://user-images.githubusercontent.com/44701892/144201366-236cdde8-0caa-4f29-960b-f0420ad474e7.png)
 
